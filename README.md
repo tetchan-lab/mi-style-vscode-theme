@@ -1,4 +1,4 @@
-# macos-mi-style README
+# macOS mi Style README
 
 ## Working with Markdown
 

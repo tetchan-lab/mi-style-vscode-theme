@@ -83,7 +83,6 @@
 	  "editor.wordHighlightStrongBackground": "#0e639c40",
 	  "editor.wordHighlightBackground": "#eaeef280",
 	  "editor.wordHighlightBorder": "#afb8c199",
-	  // 背景と同色系統の色か完全に透明にしないと文字が太くなる
 	  "editor.lineHighlightBackground": "#f0f0f000",
 	  "editorLineNumber.activeForeground": "#0b216f",
 	  "editorLink.activeForeground": "#0000ff",
@@ -2178,7 +2177,7 @@
 		}
 	  },
 	// ========================================================
-	//                     Javasctipt Variable
+	//                     Javasctipt Variable                 
 	// ========================================================
 	{
 		"name": "js- variable",
@@ -2240,7 +2239,7 @@
 		}
 	},
 	{
-		// variable.addEventListener("string" (set here) => {...});
+		// variable.addEventListener("string" (set here) => {...})
 		"name": "js variable.parameter",
 		"scope": "variable.parameter",
 		"settings": {
@@ -2249,7 +2248,7 @@
 		}
 	},
 	{
-		// storage variable = { set here: sample };
+		// storage variable = { set here: sample }
 		"name": "js- meta.object-literal.key",
 		"scope": "meta.object-literal.key",
 		"settings": {
