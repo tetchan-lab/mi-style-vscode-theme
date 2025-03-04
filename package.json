@@ -2,9 +2,10 @@
 	"name": "macos-mi-style",
 	"displayName": "macOS mi Style",
 	"description": "This is a combination of my favorite app “mi” style color theme and dark terminal.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "tetchan",
 	"license": "MIT",
+	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/tetchan-lab/mi-style-vscode-theme"

@@ -1,16 +1,11 @@
-# macOS mi Style README
+# macOS mi Style
 
-## Working with Markdown
+## macOS app "mi" color style and Dark Terminal 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This is a combination of my favorite app “mi” style color theme and dark terminal.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## About mi
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [macOS 用 日本語テキストエディタ](https://www.mimikaki.net/)
 
 **Enjoy!**

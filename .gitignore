@@ -1,2 +1,5 @@
 # macOS の隠しファイル
 .DS_Store
+
+# vsce packageでパッケージ化したファイル
+*.vsix
