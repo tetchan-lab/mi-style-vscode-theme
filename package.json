@@ -5,7 +5,7 @@
 	"version": "0.0.3",
 	"publisher": "tetchan",
 	"license": "MIT",
-	"icon": "icon.png",
+	"icon": "icon_v2.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/tetchan-lab/mi-style-vscode-theme"
