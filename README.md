@@ -18,10 +18,13 @@ VSCode では `"editor.lineHighlightBackground"` の色が特定の色だと、�
 ✅ **ライト・ダークどちらのテーマでも安心して使えます！**
 ---
 
-## Screenshot
+## PHP Screenshot
 ![テーマのスクリーンショット１](./images/demo-php.png "sample - PHPのスクリーンショット")
+## PHP/Terminal
 ![テーマのスクリーンショット２](./images/demo-php-terminal.png "sample - PHPとTerminalのスクリーンショット")
+## HTML/<script>
 ![テーマのスクリーンショット3](./images/demo-html.png "sample - HTML/SCRIPTのスクリーンショット")
+## JS/Terminal
 ![テーマのスクリーンショット4](./images/demo-js-terminal.png "sample - JSとTerminalのスクリーンショット")
 
 ## インストール方法
@@ -42,5 +45,5 @@ VSCode では `"editor.lineHighlightBackground"` の色が特定の色だと、�
 
 ## About mi
 
-* [macOS 用 日本語テキストエディタ](https://www.mimikaki.net/)
+* [macOS 用 日本語テキストエディタ mi](https://www.mimikaki.net/)
 
