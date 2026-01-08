@@ -2309,6 +2309,53 @@
 			"settings": {
 				"foreground": "#0036de"
 			}
+		},
+		{
+			"name": "php- Livewire-html wire:click/wire:submit",
+			"scope": [
+                "meta.attribute.unrecognized.wire:click string.quoted.double.html",
+                "meta.attribute.unrecognized.wire:submit string.quoted.double.html"
+			],
+			"settings": {
+				"foreground": "#008e20"
+			}
+		},
+		{
+			"name": "php- example:$this->functionNameColor()",
+			"scope": "meta.class.body.php meta.method-call.php entity.name.function.php",
+			"settings": {
+				"foreground": "#008e20"
+			}
+		},
+		{
+			"name": "php- Laravel",
+			"scope": [
+                "text.html.php.blade meta.method-call.php entity.name.function.php",
+				"meta.trait.body.php meta.method-call.php entity.name.function.php"
+			],
+			"settings": {
+				"foreground": "#008e20"
+			}
+		},
+		{
+			"name": "php- Laravel Blade property/Livewire",
+			"scope": [
+				"text.html.php.blade variable.other.property.php",
+                "meta.attribute.unrecognized.wire:model string.quoted.double.html"
+			],
+			"settings": {
+				"foreground": "#b19b0e"
+			}
+		},
+		{
+			"name": "php- Laravel Blade Directive String",
+			"scope": [
+				"keyword.blade",
+				"string.quoted.single.php"
+			],
+			"settings": {
+				"foreground": "#cf225f"
+			}
 		}
 	]
 }

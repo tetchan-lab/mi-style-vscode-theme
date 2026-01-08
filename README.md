@@ -1,11 +1,18 @@
 # macOS mi Style
- 
+
 このテーマは、macOS用 日本語テキストエディタ **mi** のスタイルと**ダークターミナル**を組み合わせた VSCode 用カラーテーマです。  
-This is a combination of my favorite app **“mi”** style color theme and **dark terminal**.
+This is a combination of my favorite app **"mi"** style color theme and **dark terminal**.
 
 ## Features
 
-**日本語入力時の未確定文字の問題を解決！**
+### 🎨 Laravel + Livewire + Blade に最適化
+**Laravel開発に特化したカラーリング！**
+- **Blade ディレクティブ** (`@if`, `@foreach`, `@extends` など) を視覚的に識別しやすく
+- **Livewire コンポーネント** (`wire:model`, `wire:click` など) のシンタックスハイライト対応
+- **Blade 内の PHP コード** や文字列を適切に色分け
+- **Alpine.js** (`x-data`, `x-show` など) との組み合わせも見やすく
+
+### 📝 日本語入力時の未確定文字の問題を解決！
 
 VSCode では `"editor.lineHighlightBackground"` の色が特定の色だと、日本語入力時に未確定文字が太くなる問題が発生します。
 
@@ -17,6 +24,9 @@ VSCode では `"editor.lineHighlightBackground"` の色が特定の色だと、�
 **✅ ライト・ダークどちらのテーマでも安心して使えます！**
 
 ## Screenshot
+**Laravel Blade + Livewire**
+![Laravel Blade](./images/demo-blade.png "Laravel Blade のスクリーンショット")
+
 **PHP**
 ![Screenshot１](./images/demo-php.png "sample - PHPのスクリーンショット")
 ![Screenshot２](./images/demo-php-terminal.png "sample - PHPとTerminalのスクリーンショット")
@@ -34,7 +44,15 @@ VSCode では `"editor.lineHighlightBackground"` の色が特定の色だと、�
 
 ## 使用方法
 1. メニューから「表示」→「コマンドパレット」を選択。
-2. `Preferences: Color Theme` と入力して選択。
+2. 推奨設定（Laravel開発向け）
+Laravel + Livewire + Blade での開発をさらに快適にするため、以下の拡張機能との併用をおすすめします：
+
+- **Laravel Blade Snippets** - Bladeの入力補完
+- **Laravel Blade Spacer** - Bladeのフォーマット
+- **Laravel Extra Intellisense** - Laravelの入力支援
+- **Livewire Goto** - Livewireコンポーネントへのジャンプ
+
+## `Preferences: Color Theme` と入力して選択。
 3. `macOS mi Style` を選ぶ。
 
 ## 貢献方法
